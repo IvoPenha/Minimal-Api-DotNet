@@ -1,2 +1,2 @@
 # Minimal-Api-DotNet
-Repositório para estudos de dotnet junto ao entity framework 
+Repositório para prática de dotnet com entity framework e SQL server 
